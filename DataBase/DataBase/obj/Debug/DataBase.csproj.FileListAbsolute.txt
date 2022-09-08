@@ -1,0 +1,11 @@
+C:\Users\Home-Comp\Desktop\DataBase\DataBase\bin\Debug\DataBase.exe.config
+C:\Users\Home-Comp\Desktop\DataBase\DataBase\bin\Debug\DataBase.exe
+C:\Users\Home-Comp\Desktop\DataBase\DataBase\bin\Debug\DataBase.pdb
+C:\Users\Home-Comp\Desktop\DataBase\DataBase\obj\Debug\DataBase.csprojAssemblyReference.cache
+C:\Users\Home-Comp\Desktop\DataBase\DataBase\obj\Debug\DataBase.csproj.ResolveComReference.cache
+C:\Users\Home-Comp\Desktop\DataBase\DataBase\obj\Debug\DataBase.Form1.resources
+C:\Users\Home-Comp\Desktop\DataBase\DataBase\obj\Debug\DataBase.Properties.Resources.resources
+C:\Users\Home-Comp\Desktop\DataBase\DataBase\obj\Debug\DataBase.csproj.GenerateResource.cache
+C:\Users\Home-Comp\Desktop\DataBase\DataBase\obj\Debug\DataBase.csproj.CoreCompileInputs.cache
+C:\Users\Home-Comp\Desktop\DataBase\DataBase\obj\Debug\DataBase.exe
+C:\Users\Home-Comp\Desktop\DataBase\DataBase\obj\Debug\DataBase.pdb
